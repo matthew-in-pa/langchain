@@ -1,2 +1,4 @@
 lchainz/
 .env
+data/
+datastore/
